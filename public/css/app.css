@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+.wrapper
+{
+    flex-grow: 1;
+}
+/* input{
+    min-width: 600px;
+} */
+form
+{
+    background-color: aliceblue;
+}
+.card
+{
+    border-style:none; 
+}
+#extra
+{
+    
+    text-align: center;
+    margin-top: 1%;
+}
+.cc
+{
+    background-color:#e3f2fd !important;
+    border-style: none solid none solid;
+}
+#extra>i
+{
+    text-align: center;
+}
+#res
+{
+    font-size: x-large;
+    text-align: center;
+}
+.sum
+{
+    font-size: large;
+}
+header
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
